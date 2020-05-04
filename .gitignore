@@ -1,0 +1,15 @@
+node_modules
+dist
+.env
+.idea
+.pnp*
+yarn*.*
+yarn.lock
+package-lock.json
+
+.vscode/
+.yarnrc
+
+*/.DS_Store
+
+coverage/
